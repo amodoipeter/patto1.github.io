@@ -57,7 +57,7 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Hello. My name is Patrick Ndung'u.</h1>
-            <h3>I'm front and back-end <span>webdesigner</span>, <span>graphic designer</span> and <span></span> creating awesome and
+            <h3>I'm front and back-end <span>webdesigner</span>, <span>graphic designer</span> and <span> an aeronautical engineer</span> creating awesome and
             effective visual identities for companies of all sizes. Let's <a class="smoothscroll" href="#about">start scrolling</a>
             and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
@@ -96,7 +96,7 @@
 
             <h2>About Me</h2>
 
-            <p>I currently a trainee at Tunapanda Institute, which is where my passion for design and tech converge. Outside of work I have a beautiful wife and cat (obviously). I am also working on a side project Investment Calculator (a simple tool to teach people about investing). Currently I am not accepting freelance work, but I'd love to get coffee and get to know you, so don’t hesitate to get in touch.
+            <p>I'm currently a trainee at Tunapanda Institute, which is where my passion for design and tech converge. While most of my attention is on interactive projects, I do branding and collateral from time to time. This includes logo design, business cards, and other printed materials. 
             </p>
 
             <div class="row">
@@ -106,10 +106,10 @@
                   <h2>Contact Details</h2>
                   <p class="address">
 						   <span>Patrick Ndung'u</span><br>
-						   <span>1600 Amphitheatre Parkway<br>
-						         Mountain View, CA 94043 US
+						   <span>Nairobi<br>
+						         Kenya.
                      </span><br>
-						   <span>(123)456-7890</span><br>
+						   <span>+254 712149602</span><br>
                      <span>anyone@website.com</span>
 					   </p>
 
