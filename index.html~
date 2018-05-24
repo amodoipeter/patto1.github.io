@@ -56,8 +56,8 @@
 
       <div class="row banner">
          <div class="banner-text">
-            <h1 class="responsive-headline" style="color: yellow">Hello. My name is Patrick Ndung'u.</h1>
-            <h3>I'm front and back-end <span>webdesigner</span>, <span>graphic designer</span> and <span> an aeronautical engineer.</span> I am a dreamer and a fanatic of all digital things.
+            <h1 class="responsive-headline" style="color: #F06000">Hello. My name is Patrick Ndung'u.</h1>
+            <h3>I'm front-end <span>webdesigner</span>, <span>graphic designer</span> and <span> an aeronautical engineer.</span> I am a dreamer and a fanatic of all digital things.
            . Let's <a class="smoothscroll" href="#about">start scrolling</a>
             and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
@@ -148,14 +148,14 @@
 
                <div class="twelve columns">
 
-                  <h3>University of Life</h3>
-                  <p class="info">Master in Graphic Design <span>&bull;</span> <em class="date">April 2007</em></p>
+                  <h3>Interesting facts</h3>
+                  <p class="info">Master in Graphic Design <span>&bull;</span> <em class="date">from 2014 </em></p>
 
                   <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+   After high school, I joined Skylink Flight School where I learned Aeronautical engineering and graduated late 2017 
+                  with both internal and external Diploma. 
+                  I later joined Tunapanda institute where I shappened my skills in Graphic and web design, computer programming, 
+                  Film/Video editing, Business/Communication and other added skills. 
                   </p>
 
                </div>
