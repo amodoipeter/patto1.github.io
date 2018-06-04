@@ -66,9 +66,9 @@
                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-               <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+               
+               
+               
             </ul>
          </div>
       </div>
@@ -148,8 +148,8 @@
 
                <div class="twelve columns">
 
-                  <h3>Interesting facts</h3>
-                  <p class="info">Master in Graphic Design <span>&bull;</span> <em class="date">from 2014 </em></p>
+                  <h3></h3>
+                  <p class="info"><span>&bull;</span> <em class="date"></em></p>
 
                   <p>
    After high school, I joined Skylink Flight School where I learned Aeronautical engineering and graduated late 2017 
@@ -166,14 +166,11 @@
 
                <div class="twelve columns">
 
-                  <h3>School of Cool Designers</h3>
-                  <p class="info">B.A. Degree in Graphic Design <span>&bull;</span> <em class="date">March 2003</em></p>
+                  <h3></h3>
+                  <p class="info"> <span>&bull;</span> <em class="date"></em></p>
 
                   <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                
                   </p>
 
                </div>
@@ -185,55 +182,7 @@
       </div> <!-- End Education -->
 
 
-      <!-- Work
-      ----------------------------------------------- -->
-      <div class="row work">
-
-         <div class="three columns header-col">
-            <h1><span>Work</span></h1>
-         </div>
-
-         <div class="nine columns main-col">
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>Awesome Design Studio</h3>
-                  <p class="info">Senior UX Designer <span>&bull;</span> <em class="date">March 2010 - Present</em></p>
-
-                  <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-                  </p>
-
-               </div>
-
-            </div> <!-- item end -->
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>Super Cool Studio</h3>
-                  <p class="info">UX Designer <span>&bull;</span> <em class="date">March 2007 - February 2010</em></p>
-
-                  <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
-                  </p>
-
-               </div>
-
-            </div> <!-- item end -->
-
-         </div> <!-- main-col end -->
-
-      </div> <!-- End Work -->
+   
 
 
       <!-- Skills
@@ -255,7 +204,7 @@
 				<div class="bars">
 
 				   <ul class="skills">
-					   <li><span class="bar-expand gimp"></span><em></em></li>
+					   <li><span class="bar-expand gimp></span><em></em></li>
                   <li><span class="bar-expand inkspace"></span><em>Inkspace</em></li>
 						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
 						<li><span class="bar-expand html5"></span><em>HTML5</em></li>
@@ -407,7 +356,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-08" title="">
-                        <img alt="" src="images/portfolio/retrocam.jpg">
+                        <img alt="" src="images/portfolio/logo.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>personal logo</h5>
@@ -552,8 +501,8 @@
 		      <img class="scale-with-grid" src="images/portfolio/modals/retrocam.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Retrocam</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+			      <h4>logo</h4>
+			      <p>This is a sample of a logo i created and design with inkspace. </p>
                <span class="categories"><i class="fa fa-tag"></i>Webdesign, Photography</span>
 		      </div>
 
